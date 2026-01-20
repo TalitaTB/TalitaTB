@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Talita Torres  
+# 👋 Olá, eu sou Talita Barros  
 
 ✨ Web Designer & UX/UI Designer  
 Criando interfaces digitais criativas, funcionais e centradas no usuário.
@@ -45,4 +45,4 @@ Trabalho com projetos que vão de **sites institucionais e landing pages** a **p
 
 📊 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalitaTB&show_icons=true&theme=tokyonight)
