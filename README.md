@@ -7,7 +7,7 @@ Criando interfaces digitais criativas, funcionais e centradas no usuário.
 
 ## 👩‍💻 Sobre mim  
 
-Sou **Web Designer & UX/UI Designer** com mais de **6 anos de experiência em design digital** e **10+ anos em web design**, atuando no desenvolvimento de interfaces que equilibram **estética, usabilidade e performance**.
+Sou **Web Designer & UX/UI Designer** com mais de **6 anos de experiência em design digital**, atuando no desenvolvimento de interfaces que equilibram **estética, usabilidade e performance**.
 
 Trabalho com projetos que vão de **sites institucionais e landing pages** a **produtos digitais**, sempre com foco em **experiência do usuário, clareza visual e consistência**.
 
